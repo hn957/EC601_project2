@@ -1,0 +1,447 @@
+-----------
+Representative name for the entity: products
+Entity type: CONSUMER_GOOD
+Salience score: 0.5308068990707397
+Mention text: products
+Mention type: COMMON
+Representative name for the entity: pride
+Entity type: OTHER
+Salience score: 0.376838356256485
+Mention text: pride
+Mention type: COMMON
+Representative name for the entity: Afghani #apple
+Entity type: ORGANIZATION
+Salience score: 0.09235472977161407
+Mention text: Afghani #apple
+Mention type: PROPER
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.699999988079071Overall Sentiment: score of 0.699999988079071 with magnitude of 0.699999988079071
+-----------
+-----------
+Representative name for the entity: MacBook Pro
+Entity type: CONSUMER_GOOD
+Salience score: 0.346619576215744
+mid: /m/09tzfp
+wikipedia_url: https://en.wikipedia.org/wiki/MacBook_Pro
+Mention text: MacBook Pro
+Mention type: PROPER
+Representative name for the entity: Apple
+Entity type: ORGANIZATION
+Salience score: 0.346619576215744
+mid: /m/04st9hr
+Mention text: Apple
+Mention type: PROPER
+Representative name for the entity: price
+Entity type: OTHER
+Salience score: 0.16385401785373688
+Mention text: price
+Mention type: COMMON
+Representative name for the entity: MRP
+Entity type: ORGANIZATION
+Salience score: 0.09294735640287399
+Mention text: MRP
+Mention type: PROPER
+Representative name for the entity: https://t.co/wjFGF9dI4A
+Entity type: OTHER
+Salience score: 0.049959491938352585
+Mention text: https://t.co/wjFGF9dI4A
+Mention type: PROPER
+Representative name for the entity: 2020
+Entity type: DATE
+Salience score: 0.0
+year: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 11
+Entity type: NUMBER
+Salience score: 0.0
+value: 11
+Mention text: 11
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 1,22,900.00
+Entity type: NUMBER
+Salience score: 0.0
+value: 122900.000000
+Mention text: 1,22,900.00
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 13.3
+Entity type: NUMBER
+Salience score: 0.0
+value: 13.300000
+Mention text: 13.3
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 1,09,990.00
+Entity type: NUMBER
+Salience score: 0.0
+value: 109990.000000
+Mention text: 1,09,990.00
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 33.78
+Entity type: NUMBER
+Salience score: 0.0
+value: 33.780000
+Mention text: 33.78
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 12,910.00
+Entity type: NUMBER
+Salience score: 0.0
+value: 12910.000000
+Mention text: 12,910.00
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2020
+Entity type: NUMBER
+Salience score: 0.0
+value: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.0Overall Sentiment: score of 0.0 with magnitude of 0.0
+-----------
+-----------
+Representative name for the entity: RT @rioorio77
+Entity type: OTHER
+Salience score: 0.5123957991600037
+Mention text: RT @rioorio77
+Mention type: PROPER
+Mention text: ＲＴ
+Mention type: PROPER
+Representative name for the entity: のため延長決定
+Entity type: OTHER
+Salience score: 0.48760420083999634
+Mention text: のため延長決定
+Mention type: PROPER
+Representative name for the entity: ０４
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: ０４
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: ３
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: ３
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: ５０
+Entity type: NUMBER
+Salience score: 0.0
+value: 50
+Mention text: ５０
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: ５００
+Entity type: NUMBER
+Salience score: 0.0
+value: 500
+Mention text: ５００
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: １０
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: １０
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: １０
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: １０
+Mention type: TYPE_UNKNOWN
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.0Sentence 1 has a sentiment score of 0.10000000149011612Sentence 2 has a sentiment score of 0.4000000059604645Sentence 3 has a sentiment score of 0.20000000298023224Sentence 4 has a sentiment score of 0.0Sentence 5 has a sentiment score of 0.10000000149011612Sentence 6 has a sentiment score of 0.20000000298023224Overall Sentiment: score of 0.10000000149011612 with magnitude of 1.2999999523162842
+-----------
+-----------
+Representative name for the entity: RT @iyadahmad1981
+Entity type: OTHER
+Salience score: 0.7290424704551697
+Mention text: RT @iyadahmad1981
+Mention type: PROPER
+Representative name for the entity: #سيري_كم_الساعة_في_فلسطين #time_cook
+Entity type: OTHER
+Salience score: 0.213782399892807
+Mention text: #سيري_كم_الساعة_في_فلسطين #time_cook
+Mention type: PROPER
+Representative name for the entity: palestine
+Entity type: LOCATION
+Salience score: 0.05717514082789421
+wikipedia_url: https://en.wikipedia.org/wiki/State_of_Palestine
+mid: /m/01k0p4
+Mention text: palestine
+Mention type: PROPER
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.20000000298023224Sentence 1 has a sentiment score of 0.0Overall Sentiment: score of 0.10000000149011612 with magnitude of 0.20000000298023224
+-----------
+-----------
+Representative name for the entity: RT @RBJ37979698
+Entity type: OTHER
+Salience score: 0.685443639755249
+Mention text: RT @RBJ37979698
+Mention type: PROPER
+Representative name for the entity: sky
+Entity type: LOCATION
+Salience score: 0.12073813378810883
+Mention text: sky
+Mention type: COMMON
+Representative name for the entity: pain
+Entity type: OTHER
+Salience score: 0.09690909832715988
+Mention text: pain
+Mention type: COMMON
+Representative name for the entity: painting
+Entity type: WORK_OF_ART
+Salience score: 0.09690909832715988
+Mention text: painting
+Mention type: COMMON
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.30000001192092896Sentence 1 has a sentiment score of 0.5Overall Sentiment: score of 0.4000000059604645 with magnitude of 0.8999999761581421
+-----------
+-----------
+Representative name for the entity: RT @schestowitz
+Entity type: OTHER
+Salience score: 0.4445526599884033
+Mention text: RT @schestowitz
+Mention type: PROPER
+Representative name for the entity: NEWS
+Entity type: OTHER
+Salience score: 0.14881879091262817
+Mention text: NEWS
+Mention type: COMMON
+Representative name for the entity: display repairs
+Entity type: OTHER
+Salience score: 0.10872045904397964
+Mention text: display repairs
+Mention type: COMMON
+Representative name for the entity: Apple
+Entity type: ORGANIZATION
+Salience score: 0.08330347388982773
+mid: /m/04st9hr
+Mention text: Apple
+Mention type: PROPER
+Representative name for the entity: step
+Entity type: OTHER
+Salience score: 0.07138366252183914
+Mention text: step
+Mention type: COMMON
+Representative name for the entity: http
+Entity type: OTHER
+Salience score: 0.06402336061000824
+Mention text: http
+Mention type: COMMON
+Representative name for the entity: AppleInsider #ProprietarySoftware
+Entity type: CONSUMER_GOOD
+Salience score: 0.06045433506369591
+Mention text: AppleInsider #ProprietarySoftware
+Mention type: PROPER
+Representative name for the entity: iPhone 13 Pro
+Entity type: CONSUMER_GOOD
+Salience score: 0.01874324306845665
+mid: /g/11q32yjpnr
+wikipedia_url: https://en.wikipedia.org/wiki/IPhone_13_Pro
+Mention text: iPhone 13 Pro
+Mention type: PROPER
+Representative name for the entity: 13
+Entity type: NUMBER
+Salience score: 0.0
+value: 13
+Mention text: 13
+Mention type: TYPE_UNKNOWN
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.0Sentence 1 has a sentiment score of 0.0Sentence 2 has a sentiment score of -0.6000000238418579Overall Sentiment: score of -0.10000000149011612 with magnitude of 0.699999988079071
+-----------
+-----------
+Representative name for the entity: RT @AkshyaMobile
+Entity type: OTHER
+Salience score: 0.7765005230903625
+Mention text: RT @AkshyaMobile
+Mention type: PROPER
+Mention text: mobile
+Mention type: COMMON
+Representative name for the entity: EMI
+Entity type: ORGANIZATION
+Salience score: 0.06698364019393921
+Mention text: EMI
+Mention type: PROPER
+Representative name for the entity: Mobile Phones
+Entity type: CONSUMER_GOOD
+Salience score: 0.05086400359869003
+Mention text: Mobile Phones
+Mention type: COMMON
+Representative name for the entity: Recharges
+Entity type: OTHER
+Salience score: 0.03853348642587662
+Mention text: Recharges
+Mention type: COMMON
+Representative name for the entity: Akshya Mobiles &amp
+Entity type: PERSON
+Salience score: 0.03302176296710968
+Mention text: Akshya Mobiles &amp
+Mention type: PROPER
+Representative name for the entity: Headphones
+Entity type: CONSUMER_GOOD
+Salience score: 0.017048299312591553
+Mention text: Headphones
+Mention type: COMMON
+Representative name for the entity: Bluetooth
+Entity type: OTHER
+Salience score: 0.017048299312591553
+Mention text: Bluetooth
+Mention type: COMMON
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.699999988079071Sentence 1 has a sentiment score of 0.0Overall Sentiment: score of 0.30000001192092896 with magnitude of 0.800000011920929
+-----------
+-----------
+Representative name for the entity: RT @bhmag
+Entity type: OTHER
+Salience score: 0.3960576057434082
+Mention text: RT @bhmag
+Mention type: PROPER
+Representative name for the entity: version
+Entity type: CONSUMER_GOOD
+Salience score: 0.2740061283111572
+Mention text: version
+Mention type: COMMON
+Representative name for the entity: Apple
+Entity type: ORGANIZATION
+Salience score: 0.1934598684310913
+mid: /m/04st9hr
+Mention text: Apple
+Mention type: PROPER
+Representative name for the entity: iPadOS #iphone13
+Entity type: CONSUMER_GOOD
+Salience score: 0.13647641241550446
+Mention text: iPadOS
+#iphone13
+Mention type: PROPER
+Representative name for the entity: 15
+Entity type: NUMBER
+Salience score: 0.0
+value: 15
+Mention text: 15
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 0
+Entity type: NUMBER
+Salience score: 0.0
+value: 0
+Mention text: 0
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 1
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: 1
+Mention type: TYPE_UNKNOWN
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.0Overall Sentiment: score of 0.0 with magnitude of 0.0
+-----------
+-----------
+Representative name for the entity: mobile
+Entity type: CONSUMER_GOOD
+Salience score: 0.627208948135376
+Mention text: mobile
+Mention type: COMMON
+Representative name for the entity: EMI
+Entity type: ORGANIZATION
+Salience score: 0.13493259251117706
+Mention text: EMI
+Mention type: PROPER
+Representative name for the entity: Mobile Phones
+Entity type: CONSUMER_GOOD
+Salience score: 0.07009322196245193
+Mention text: Mobile Phones
+Mention type: COMMON
+Representative name for the entity: Recharges
+Entity type: OTHER
+Salience score: 0.053101133555173874
+Mention text: Recharges
+Mention type: COMMON
+Representative name for the entity: Akshya Mobiles &amp
+Entity type: PERSON
+Salience score: 0.045505695044994354
+Mention text: Akshya Mobiles &amp
+Mention type: PROPER
+Representative name for the entity: Headphones
+Entity type: CONSUMER_GOOD
+Salience score: 0.023493437096476555
+Mention text: Headphones
+Mention type: COMMON
+Representative name for the entity: Bluetooth
+Entity type: OTHER
+Salience score: 0.023493437096476555
+Mention text: Bluetooth
+Mention type: COMMON
+Representative name for the entity: https://t.co/nfNYhmHJdT
+Entity type: OTHER
+Salience score: 0.022171542048454285
+Mention text: https://t.co/nfNYhmHJdT
+Mention type: PROPER
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.8999999761581421Sentence 1 has a sentiment score of 0.0Overall Sentiment: score of 0.4000000059604645 with magnitude of 0.8999999761581421
+-----------
+-----------
+Representative name for the entity: Apple
+Entity type: ORGANIZATION
+Salience score: 0.30019938945770264
+mid: /m/04st9hr
+Mention text: Apple
+Mention type: PROPER
+Mention text: Apple
+Mention type: PROPER
+Representative name for the entity: RT @iphonesoft_fr
+Entity type: OTHER
+Salience score: 0.276794970035553
+Mention text: RT @iphonesoft_fr
+Mention type: PROPER
+Representative name for the entity: Safari
+Entity type: OTHER
+Salience score: 0.1843256950378418
+Mention text: Safari
+Mention type: COMMON
+Representative name for the entity: MacOS Big Sur
+Entity type: OTHER
+Salience score: 0.07769256830215454
+mid: /g/11jp1dx7km
+wikipedia_url: https://en.wikipedia.org/wiki/MacOS_Big_Sur
+Mention text: MacOS Big Sur
+Mention type: PROPER
+Representative name for the entity: Catalina https://t.co/B2XSP0Rx8P
+Entity type: PERSON
+Salience score: 0.0714549720287323
+Mention text: Catalina https://t.co/B2XSP0Rx8P
+Mention type: PROPER
+Representative name for the entity: iOS
+Entity type: CONSUMER_GOOD
+Salience score: 0.03816601261496544
+mid: /m/03wbl14
+wikipedia_url: https://en.wikipedia.org/wiki/IOS
+Mention text: iOS
+Mention type: PROPER
+Representative name for the entity: iPhone
+Entity type: CONSUMER_GOOD
+Salience score: 0.027331644669175148
+mid: /m/027lnzs
+wikipedia_url: https://en.wikipedia.org/wiki/IPhone
+Mention text: iPhone
+Mention type: PROPER
+Representative name for the entity: iSoft
+Entity type: ORGANIZATION
+Salience score: 0.024034740403294563
+Mention text: iSoft
+Mention type: PROPER
+Representative name for the entity: 15.1
+Entity type: NUMBER
+Salience score: 0.0
+value: 15.100000
+Mention text: 15.1
+Mention type: TYPE_UNKNOWN
+Language of the text: en
+
+Sentence 0 has a sentiment score of 0.0Overall Sentiment: score of 0.0 with magnitude of 0.0
+-----------
